@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSample", "StringSampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatement", "IfStatement\IfStatement.csproj", "{EBE73DE2-66E9-4E16-BFBA-127E3DC0E6A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{31B4C276-B2CC-4E08-8D4E-243E4589D894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerationSample", "EnumerationSample\EnumerationSample.csproj", "{20D16168-6C9D-4C6D-AF61-85C583DB6E81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{EBE73DE2-66E9-4E16-BFBA-127E3DC0E6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBE73DE2-66E9-4E16-BFBA-127E3DC0E6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBE73DE2-66E9-4E16-BFBA-127E3DC0E6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B4C276-B2CC-4E08-8D4E-243E4589D894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B4C276-B2CC-4E08-8D4E-243E4589D894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B4C276-B2CC-4E08-8D4E-243E4589D894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B4C276-B2CC-4E08-8D4E-243E4589D894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D16168-6C9D-4C6D-AF61-85C583DB6E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D16168-6C9D-4C6D-AF61-85C583DB6E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D16168-6C9D-4C6D-AF61-85C583DB6E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D16168-6C9D-4C6D-AF61-85C583DB6E81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
